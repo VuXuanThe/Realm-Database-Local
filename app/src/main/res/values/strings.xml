@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Realm Database Local</string>
+
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>other</item>
+    </array>
+
+</resources>
